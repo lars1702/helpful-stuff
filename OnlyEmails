@@ -1,0 +1,44 @@
+  email@example.com
+  firstname.lastname@example.com
+  email@subdomain.example.com
+  firstname+lastname@example.com
+  email@123.123.123.123
+  email@[123.123.123.123]
+  "email"@example.com
+  1234567890@example.com
+  email@example-one.com
+  _______@example.com
+  email@example.name
+  email@example.museum
+  email@example.co.jp
+  firstname-lastname@example.com
+  æøåÆØÅ.HeLLo.from.N0rway@æøå.no
+  prettyandsimple@example.com
+  very.common@example.com
+  disposable.style.email.with+symbol@example.com
+  other.email-with-dash@example.com
+  fully-qualified-domain@example.com
+  x@example.com
+  "very.unusual.@.unusual.com"@example.com
+  "very.(),:;<>[]\".VERY.\"very@\ \"very\".unusual"@strange.example.com
+  example-indeed@strange-example.com
+  admin@mailserver1
+  user@localserver
+  /#!$%&'*+-/=?^_`{}|~@example.org
+  "()<>[]:,;@\\"!#$%&\'-/=?^_`{}| ~.a"@example.org
+  " "@example.org
+  example@s.solutions
+  user@tt
+  user@[IPv6:2001:DB8::1]
+  me@example.com
+  a.nonymous@example.com
+  name+tag@example.com
+  name\@tag@example.com
+  spaces\ are\ allowed@example.com
+  "spaces may be quoted"@example.com
+  !#$%&'*+-/=.?^_`{|}~@[1.0.0.127]
+  !#$%&'*+-/=.?^_`{|}~@[IPv6:0123:4567:89AB:CDEF:0123:4567:89AB:CDEF]
+  me(this is a comment)@example.com
+  email@tld.translates.to.foshan.xn--1qqw23a
+  email@tld.translates.to.moskva.xn--11b4c3d
+  email@tld.translates.to.arab.xn--ngbrx
